@@ -1,0 +1,8 @@
+
+/build/
+/.idea/
+/.gradle/
+/app/build/
+/app/libs/
+/P2-MyBusiness.iml
+/app/app.iml
